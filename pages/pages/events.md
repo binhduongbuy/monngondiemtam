@@ -1,7 +1,7 @@
 ---
-title: 'Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức'
+title: 'Danh mục Học Nấu Ăn'
 layout: Events
 path: '/events/'
-meta: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
-keywords: Events & Các sự kiện do Trà Sữa Phú Quốc tổ chức
+meta: Danh mục Học Nấu Ăn
+keywords: Danh mục Học Nấu Ăn
 ---
